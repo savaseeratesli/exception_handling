@@ -1,0 +1,2 @@
+D:\opp_projeler\exception_handling\Debug\exception_handling.exe
+D:\opp_projeler\exception_handling\Debug\exception_handling.pdb
